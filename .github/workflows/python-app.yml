@@ -38,3 +38,6 @@ jobs:
       run: |
         python x.py
         python ML.py
+
+        pylint x.py
+        pylint ML.py
