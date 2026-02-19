@@ -1,3 +1,5 @@
+"""Calculates sum and product of two numbers."""
+
 VAR_A = 2
 VAR_B = 3
 VAR_C = VAR_A + VAR_B
