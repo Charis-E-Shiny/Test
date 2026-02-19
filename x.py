@@ -1,6 +1,6 @@
-a = 2
-b = 3
-c = a+b
-print(c)
-d = a*b
-print(d)
+Aa = 2
+Bb = 3
+Cc = Aa+Bb
+print(Cc)
+Dd = Aa*Bb
+print(Dd)
